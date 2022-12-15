@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+}
+.box{
+    border: 2px solid;
+    display: flex;
+   flex-direction: column;
+    width: 60vw;
+    margin: auto;
+    margin-top: 30px;
+}
+.box>h2{
+    border: 2px solid;
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.para{
+    /* border: 2px solid green; */
+    padding: 20px;
+    background-color: aliceblue;
+
+}
